@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Full Stack webdevelopment in Business College Helsenki 
 
 - 🤔 I’m looking for help with simple ideas of small project
-- 📫 How to reach me: - 
-- [LinkedIn](https://www.linkedin.com/in/antonbezruchenkov/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/antonbezruchenkov/)
 
