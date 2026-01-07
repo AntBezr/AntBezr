@@ -28,6 +28,9 @@ Software Engineer building reliable and maintainable products.
 ## 📂 Projects
 Most of my work is related to real-world products and internal tools.
 
+## 📊 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntBezr&layout=compact)
+
 ---
 
 ⭐️ Feel free to explore my repositories
