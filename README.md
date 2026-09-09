@@ -27,7 +27,7 @@ Mobile app for hospitality business
 [App Store](https://apps.apple.com/us/app/sustainstay/id6737006360)
 
 ## 📊 Languages
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=octocat&theme=AntBezr)]
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AntBezr&layout=compact&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=AntBezr&layout=compact&langs_count=4&hide_values=true&theme=dark_github)
 
 ---
 
